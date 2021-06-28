@@ -1,5 +1,7 @@
 from time import sleep
 
+print("Test")
+
 lst = [0, 0, 0]
 nums = [1,3,5,7,9,11,13,15]
 l = len(nums)
